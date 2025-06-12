@@ -8,11 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaryanNabeel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### My Coding Mood
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODhoZTBxcTVrOGdvdGRvejA1YzU3ZGZnbmtyM200ZnF3YzBoejRicSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" />
 
-###
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
