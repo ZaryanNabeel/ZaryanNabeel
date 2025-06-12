@@ -47,8 +47,6 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <picture>
@@ -56,4 +54,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZaryanNabeel/ZaryanNabeel/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ZaryanNabeel/ZaryanNabeel/output/github-snake.svg" />
 </picture>
-###
+
+<br>
+
