@@ -9,11 +9,9 @@
 
 </div>
 
-###
 
-<img align="right" height="150" src="https://i.gifer.com/3Wby.gif"  />
 
-###
+## Tech Stack
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,7 +33,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 
-###
+## Socials
 
 <div align="left">
   <a href="mailto:syedzaryannabeel@gmail.com" target="_blank">
