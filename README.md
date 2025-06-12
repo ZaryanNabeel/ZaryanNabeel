@@ -8,9 +8,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZaryanNabeel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### My Coding Mood
+###
 
-<img align="right" height="150" src="https://media.giphy.com/media/oFYKw5OTZBZzVONpUh/giphy.gif" />
+<img align="right" height="150" src="https://i.gifer.com/3Wby.gif"  />
+
+###
 
 
 <div align="left">
